@@ -1,0 +1,3 @@
+At time 10/14/2021 8:42:06 AM at TryEnterStation _currentPlane is null
+At time 11/19/2021 10:46:42 AM at TryEnterStation _currentPlane is null
+At time 11/19/2021 10:46:47 AM at TryEnterStation _currentPlane is null

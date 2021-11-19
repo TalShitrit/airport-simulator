@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "1",
+    "TimeToMove": 1,
+    "IsClear": true,
+    "ReadyToExit": false
+  },
+  {
+    "Id": "2",
+    "TimeToMove": 1,
+    "IsClear": true,
+    "ReadyToExit": false
+  },
+  {
+    "Id": "3",
+    "TimeToMove": 1,
+    "IsClear": true,
+    "ReadyToExit": false
+  },
+  {
+    "Id": "4",
+    "TimeToMove": 2,
+    "IsClear": true,
+    "ReadyToExit": false
+  },
+  {
+    "Id": "5",
+    "TimeToMove": 3,
+    "IsClear": true,
+    "ReadyToExit": false
+  },
+  {
+    "Id": "6",
+    "TimeToMove": 2,
+    "IsClear": true,
+    "ReadyToExit": false
+  },
+  {
+    "Id": "7",
+    "TimeToMove": 2,
+    "IsClear": true,
+    "ReadyToExit": false
+  },
+  {
+    "Id": "8",
+    "TimeToMove": 3,
+    "IsClear": true,
+    "ReadyToExit": false
+  }
+]

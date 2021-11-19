@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\talor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\talor\\.nuget\\packages"
+    ]
+  }
+}

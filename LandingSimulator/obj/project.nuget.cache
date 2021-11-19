@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B7zVVPrpne2qB/xnN5YupHqtPPtqTiSx0Q2rF5Lwv2TtD6OO6BEw/71XiRmuuezhB5PqyQD5q6NLak6uJbChCA==",
+  "success": true,
+  "projectFilePath": "D:\\programming\\final project\\AirPort Project\\LandingSimulator\\Simulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

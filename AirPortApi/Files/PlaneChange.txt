@@ -1,0 +1,82 @@
+plane: 1 enter station 1 at 11/19/2021 10:47:29 AM
+plane: 1 enter station 2 at 11/19/2021 10:47:31 AM
+plane: 1 exit station 1 at 11/19/2021 10:47:31 AM
+plane: 1 enter station 3 at 11/19/2021 10:47:33 AM
+plane: 1 exit station 2 at 11/19/2021 10:47:33 AM
+plane: 1 enter station 4 at 11/19/2021 10:47:35 AM
+plane: 1 exit station 3 at 11/19/2021 10:47:35 AM
+plane: 1 enter station 5 at 11/19/2021 10:47:37 AM
+plane: 1 exit station 4 at 11/19/2021 10:47:37 AM
+plane: 1 enter station 6 at 11/19/2021 10:47:39 AM
+plane: 1 exit station 5 at 11/19/2021 10:47:39 AM
+plane: 1 exit station 6 at 11/19/2021 10:47:41 AM
+plane: 1 finished at 11/19/2021 10:47:41 AM
+plane: 2 enter station 1 at 11/19/2021 10:47:47 AM
+plane: 5 enter station 7 at 11/19/2021 10:47:47 AM
+plane: 3 start at 11/19/2021 10:47:49 AM
+plane: 5 enter station 8 at 11/19/2021 10:47:49 AM
+plane: 2 enter station 2 at 11/19/2021 10:47:49 AM
+plane: 3 enter station 1 at 11/19/2021 10:47:49 AM
+plane: 6 enter station 7 at 11/19/2021 10:47:49 AM
+plane: 5 exit station 7 at 11/19/2021 10:47:49 AM
+plane: 2 exit station 1 at 11/19/2021 10:47:49 AM
+plane: 2 enter station 3 at 11/19/2021 10:47:51 AM
+plane: 5 enter station 4 at 11/19/2021 10:47:51 AM
+plane: 2 exit station 2 at 11/19/2021 10:47:51 AM
+plane: 4 start at 11/19/2021 10:47:51 AM
+plane: 6 enter station 8 at 11/19/2021 10:47:52 AM
+plane: 4 enter station 1 at 11/19/2021 10:47:51 AM
+plane: 5 exit station 8 at 11/19/2021 10:47:51 AM
+plane: 3 enter station 2 at 11/19/2021 10:47:51 AM
+plane: 3 exit station 1 at 11/19/2021 10:47:51 AM
+plane: 6 exit station 7 at 11/19/2021 10:47:52 AM
+plane: 2 enter station 4 at 11/19/2021 10:47:54 AM
+plane: 7 start at 11/19/2021 10:47:54 AM
+plane: 3 enter station 3 at 11/19/2021 10:47:54 AM
+plane: 4 enter station 2 at 11/19/2021 10:47:54 AM
+plane: 5 finished at 11/19/2021 10:47:54 AM
+plane: 7 enter station 1 at 11/19/2021 10:47:54 AM
+plane: 5 exit station 4 at 11/19/2021 10:47:54 AM
+plane: 3 exit station 2 at 11/19/2021 10:47:54 AM
+plane: 4 exit station 1 at 11/19/2021 10:47:54 AM
+plane: 2 exit station 3 at 11/19/2021 10:47:54 AM
+plane: 6 enter station 4 at 11/19/2021 10:47:56 AM
+plane: 2 enter station 5 at 11/19/2021 10:47:56 AM
+plane: 2 exit station 4 at 11/19/2021 10:47:56 AM
+plane: 6 exit station 8 at 11/19/2021 10:47:56 AM
+plane: 2 enter station 6 at 11/19/2021 10:47:58 AM
+plane: 6 finished at 11/19/2021 10:47:58 AM
+plane: 3 enter station 4 at 11/19/2021 10:47:58 AM
+plane: 7 enter station 2 at 11/19/2021 10:47:58 AM
+plane: 6 exit station 4 at 11/19/2021 10:47:58 AM
+plane: 4 enter station 3 at 11/19/2021 10:47:58 AM
+plane: 4 exit station 2 at 11/19/2021 10:47:58 AM
+plane: 3 exit station 3 at 11/19/2021 10:47:58 AM
+plane: 2 exit station 5 at 11/19/2021 10:47:58 AM
+plane: 7 exit station 1 at 11/19/2021 10:47:58 AM
+plane: 2 finished at 11/19/2021 10:48:00 AM
+plane: 7 enter station 3 at 11/19/2021 10:48:00 AM
+plane: 4 enter station 4 at 11/19/2021 10:48:00 AM
+plane: 2 exit station 6 at 11/19/2021 10:48:00 AM
+plane: 3 enter station 5 at 11/19/2021 10:48:00 AM
+plane: 3 exit station 4 at 11/19/2021 10:48:00 AM
+plane: 7 exit station 2 at 11/19/2021 10:48:00 AM
+plane: 4 exit station 3 at 11/19/2021 10:48:00 AM
+plane: 4 enter station 5 at 11/19/2021 10:48:02 AM
+plane: 3 exit station 5 at 11/19/2021 10:48:02 AM
+plane: 3 enter station 6 at 11/19/2021 10:48:02 AM
+plane: 4 exit station 4 at 11/19/2021 10:48:02 AM
+plane: 7 enter station 4 at 11/19/2021 10:48:02 AM
+plane: 7 exit station 3 at 11/19/2021 10:48:02 AM
+plane: 3 finished at 11/19/2021 10:48:04 AM
+plane: 4 enter station 6 at 11/19/2021 10:48:04 AM
+plane: 3 exit station 6 at 11/19/2021 10:48:04 AM
+plane: 7 enter station 5 at 11/19/2021 10:48:04 AM
+plane: 4 exit station 5 at 11/19/2021 10:48:04 AM
+plane: 7 exit station 4 at 11/19/2021 10:48:04 AM
+plane: 4 finished at 11/19/2021 10:48:06 AM
+plane: 4 exit station 6 at 11/19/2021 10:48:06 AM
+plane: 7 enter station 6 at 11/19/2021 10:48:06 AM
+plane: 7 exit station 5 at 11/19/2021 10:48:06 AM
+plane: 7 finished at 11/19/2021 10:48:08 AM
+plane: 7 exit station 6 at 11/19/2021 10:48:08 AM

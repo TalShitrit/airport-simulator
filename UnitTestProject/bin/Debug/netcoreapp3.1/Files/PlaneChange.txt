@@ -1,0 +1,3 @@
+plane: 1 enter station 7 at 11/19/2021 10:46:59 AM
+plane: 1 enter station 8 at 11/19/2021 10:47:01 AM
+plane: 1 exit station 7 at 11/19/2021 10:47:01 AM

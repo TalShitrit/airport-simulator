@@ -1,0 +1,12 @@
+{
+  "SleepTime": 4,
+  "SleepRepite": 7,
+  "ConfigStationPath": "ConfigStation.json",
+  "LogPath": "LogError.txt",
+  "PlaneChangePath": "PlaneChange.txt",
+  "StationStatusPath": "StationStatus.json",
+  "API": "http://localhost:62537",
+  "Hub": "/airPlaneHub",
+  "LandingQueueFilePath": "LandingQueue.txt",
+  "TakeOffQueueFilePath": "TakeOffQueue.txt"
+}

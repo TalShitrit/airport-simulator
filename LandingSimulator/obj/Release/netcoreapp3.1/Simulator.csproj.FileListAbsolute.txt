@@ -1,0 +1,13 @@
+D:\programming\final project\AirPort Project\LandingSimulator\bin\Release\netcoreapp3.1\Simulator.exe
+D:\programming\final project\AirPort Project\LandingSimulator\bin\Release\netcoreapp3.1\Simulator.deps.json
+D:\programming\final project\AirPort Project\LandingSimulator\bin\Release\netcoreapp3.1\Simulator.runtimeconfig.json
+D:\programming\final project\AirPort Project\LandingSimulator\bin\Release\netcoreapp3.1\Simulator.runtimeconfig.dev.json
+D:\programming\final project\AirPort Project\LandingSimulator\bin\Release\netcoreapp3.1\Simulator.dll
+D:\programming\final project\AirPort Project\LandingSimulator\bin\Release\netcoreapp3.1\Simulator.pdb
+D:\programming\final project\AirPort Project\LandingSimulator\obj\Release\netcoreapp3.1\Simulator.csprojAssemblyReference.cache
+D:\programming\final project\AirPort Project\LandingSimulator\obj\Release\netcoreapp3.1\Simulator.AssemblyInfoInputs.cache
+D:\programming\final project\AirPort Project\LandingSimulator\obj\Release\netcoreapp3.1\Simulator.AssemblyInfo.cs
+D:\programming\final project\AirPort Project\LandingSimulator\obj\Release\netcoreapp3.1\Simulator.csproj.CoreCompileInputs.cache
+D:\programming\final project\AirPort Project\LandingSimulator\obj\Release\netcoreapp3.1\Simulator.dll
+D:\programming\final project\AirPort Project\LandingSimulator\obj\Release\netcoreapp3.1\Simulator.pdb
+D:\programming\final project\AirPort Project\LandingSimulator\obj\Release\netcoreapp3.1\Simulator.genruntimeconfig.cache

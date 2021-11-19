@@ -1,0 +1,9 @@
+D:\programming\final project\AirPort Project\Models\bin\Release\netstandard2.0\Models.deps.json
+D:\programming\final project\AirPort Project\Models\bin\Release\netstandard2.0\Models.dll
+D:\programming\final project\AirPort Project\Models\bin\Release\netstandard2.0\Models.pdb
+D:\programming\final project\AirPort Project\Models\obj\Release\netstandard2.0\Models.AssemblyInfoInputs.cache
+D:\programming\final project\AirPort Project\Models\obj\Release\netstandard2.0\Models.AssemblyInfo.cs
+D:\programming\final project\AirPort Project\Models\obj\Release\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+D:\programming\final project\AirPort Project\Models\obj\Release\netstandard2.0\Models.dll
+D:\programming\final project\AirPort Project\Models\obj\Release\netstandard2.0\Models.pdb
+D:\programming\final project\AirPort Project\Models\obj\Release\netstandard2.0\Models.csprojAssemblyReference.cache
